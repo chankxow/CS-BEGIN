@@ -44,6 +44,27 @@ namespace Variables
             Console.WriteLine(theTrue);
             Console.WriteLine(Text);
 
+
+            // CONSTANT
+
+            const int Cnum = 15; // ตัวแปรคงที่ค่า = 15 เสมอ
+            Console.WriteLine(Cnum);
+
+            // DISPLAY NAME
+
+            String NickName = "Poom";
+            Console.WriteLine("Hello, Im " + NickName );
+
+            String FirtName = "john";
+            String LastName = "Wick";
+            String FullName = FirtName +" "+ LastName;
+            Console.WriteLine( FullName );
+
+            int x = 20;
+            int y = 50;
+
+            Console.WriteLine(x+y);
+
         }  
     }      
 }
