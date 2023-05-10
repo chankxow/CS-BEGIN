@@ -62,8 +62,10 @@ namespace Variables
 
             int x = 20;
             int y = 50;
+            int z = 80;
+            Console.WriteLine(x+y+z);
 
-            Console.WriteLine(x+y);
+
 
         }  
     }      
