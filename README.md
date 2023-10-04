@@ -1,6 +1,6 @@
 # CsharpforUNITYbegining
 
-<h1> พื้นฐานภาษา C# ก่อนนำไปใช้ร่วมกับ UNITY ในการสร้างเกม  </h1>
+<h1> พื้นฐานภาษา C#   </h1>
 <h2>Learning C# from  <a href="https://www.w3schools.com/cs/index.php">W3school</a></h2>
 
 <h2>ภาษาC#สามารถนำไปใช้ได้หลายอย่างมากอย่างเข่น</h2> 
